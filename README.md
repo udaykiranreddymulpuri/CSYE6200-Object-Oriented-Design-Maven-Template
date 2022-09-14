@@ -28,4 +28,6 @@ Submissions will have deadlines, failed GitHub Actions would result in point ded
 
 Please reach out to your respective TA if you need any help in regards with submission/ GitHub
 
-Author: Aditya Mulik (mulik.a@northeastern.edu)
+Author: 
+- Aditya Mulik (mulik.a@northeastern.edu)
+- Venkata Sai Akhil Vemula (vemula.v@northeastern.edu)
