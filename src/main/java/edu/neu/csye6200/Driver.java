@@ -8,7 +8,6 @@ public class Driver {
         System.out.println("============Main Execution Start===================\n\n");
 
         //Add your code in between these two print statements
-        new Test();
 
         System.out.println("\n\n============Main Execution End===================");
     }
