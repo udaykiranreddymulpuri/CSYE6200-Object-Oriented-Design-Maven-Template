@@ -5,7 +5,8 @@
 ## Professor: Daniel Peters
 
 ### Requirements
-1. Eclipse or VS Code or IntelliJ
+1. Eclipse or VS Code or IntelliJ.
+
 Note: If you are using Eclipse, please have git CLI installed on your system or GitHub Desktop to commit the code in this repository
 
 ### SetUp Instructions
