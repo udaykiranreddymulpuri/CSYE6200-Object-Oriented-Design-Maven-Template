@@ -1,17 +1,12 @@
 # Welcome to the course CSYE6200 - Object Oriented Design
 > Northeastern University, College of Engineering
 
-[![Lint Code Base](https://github.com/CSYE6200-Object-Oriented-Design/Object-Oriented-Design-Template-Repository/actions/workflows/super-linter.yml/badge.svg)](https://github.com/CSYE6200-Object-Oriented-Design/Object-Oriented-Design-Template-Repository/actions/workflows/super-linter.yml)
-
 
 ## Professor: Daniel Peters
 
 ### Requirements
-1. Please have git CLI installed on your system or GitHub Desktop to commit the code in this repository
-2. Linters for Eclipse or Intellij or VSCode (As per your choice of IDE for development)
-- Eclipse - <https://marketplace.eclipse.org/category/free-tagging/linter>
-- Intellij - <https://www.jetbrains.com/help/idea/code-style-java.html>
-- VSCode - <https://code.visualstudio.com/docs/java/java-linting>
+1. Eclipse or VS Code or IntelliJ
+Note: If you are using Eclipse, please have git CLI installed on your system or GitHub Desktop to commit the code in this repository
 
 ### SetUp Instructions
 1. Please clone the repository on your local system
@@ -19,7 +14,6 @@
 4. All code should be pushed to the main branch
 3. Ensure the GitHub actions are successful post push
 
-We have enabled linting, which would ensure you need to write clean & well indented code.
 Submissions will have deadlines, failed GitHub Actions would result in point deductions.
 
 ### References
@@ -30,4 +24,4 @@ Please reach out to your respective TA if you need any help in regards with subm
 
 Author:
 - Aditya Mulik (mulik.a@northeastern.edu)
-- Venkata Sai Akhil Vemula (vemula.v@northeastern.edu)
+- Sai Akhil Vemula (vemula.v@northeastern.edu)
